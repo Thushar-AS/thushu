@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<personlist>
+<person id="1">
+<name>"john"</name>
+<age>43</age>
+<city>"hassan"</city>
+</person>
+<person id="2">
+<name>"yashu"</name>
+<age>67</age>
+<city>"alur"</city>
+</person>
+</personlist>
